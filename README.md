@@ -27,4 +27,4 @@ Feel free to submit your own one-liners in the `one_liners.py` Python file!
 Creating your own one-liners is an excellent way to improve your understanding of the single line of Python code. After all, every complicated Python program consists just of a number of Python one-liners---chained together to a coherent whole!
 
 # Youtube Tutorial Playlist 
-<https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9>
+Playlist : <https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9>
